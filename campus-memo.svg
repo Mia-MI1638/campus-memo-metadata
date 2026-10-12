@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-labelledby="title description">
+  <title id="title">Campus Memo — Flight Milestone</title>
+  <desc id="description">An original commemorative illustration of a drone above an abstract campus, in navy, teal and gold.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#132c42"/>
+      <stop offset="1" stop-color="#071723"/>
+    </linearGradient>
+    <linearGradient id="horizon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#47d0bc" stop-opacity="0.19"/>
+      <stop offset="1" stop-color="#47d0bc" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="drone" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dcfff4"/>
+      <stop offset="1" stop-color="#54ccb7"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#background)"/>
+  <rect x="29" y="29" width="742" height="742" rx="32" fill="none" stroke="#c5a669" stroke-opacity="0.6"/>
+  <rect x="40" y="40" width="720" height="720" rx="24" fill="none" stroke="#64cbbb" stroke-opacity="0.14"/>
+  <g fill="none" stroke="#4e8b8e" stroke-opacity="0.14">
+    <path d="M80 216H720M80 276H720M80 336H720M80 396H720M80 456H720M80 516H720M80 576H720"/>
+    <path d="M160 190V605M240 190V605M320 190V605M400 190V605M480 190V605M560 190V605M640 190V605"/>
+  </g>
+  <text x="400" y="112" fill="#e8f4ec" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="7">CAMPUS MEMO</text>
+  <path d="M278 137H350M450 137H522" stroke="#c5a669" stroke-width="1.5"/>
+  <path d="M400 129L408 137L400 145L392 137Z" fill="#c5a669"/>
+  <text x="400" y="181" fill="#78bcb1" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="5">A MEMORY OF EXPLORATION</text>
+  <circle cx="400" cy="376" r="180" fill="url(#horizon)"/>
+  <g fill="none">
+    <circle cx="400" cy="376" r="180" stroke="#63cbb8" stroke-opacity="0.20"/>
+    <circle cx="400" cy="376" r="160" stroke="#63cbb8" stroke-opacity="0.12" stroke-dasharray="2 10"/>
+    <path d="M236 294A183 183 0 0 1 561 288" stroke="#c5a669" stroke-width="2" stroke-dasharray="5 10"/>
+    <path d="M557 280L564 295L548 291" stroke="#c5a669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g fill="#c5a669">
+    <circle cx="238" cy="293" r="4"/>
+    <circle cx="613" cy="259" r="2"/>
+    <circle cx="199" cy="373" r="2"/>
+    <path d="M583 372V388M575 380H591" stroke="#c5a669" stroke-width="1.5"/>
+    <path d="M210 242V254M204 248H216" stroke="#c5a669" stroke-width="1.5"/>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M377 337L329 307M423 337L471 307M377 359L329 389M423 359L471 389" fill="none" stroke="#41998f" stroke-width="15"/>
+    <path d="M377 335L329 305M423 335L471 305M377 357L329 387M423 357L471 387" fill="none" stroke="url(#drone)" stroke-width="8"/>
+    <g fill="#112c3b" stroke="#8be1ce" stroke-width="2.5">
+      <ellipse cx="325" cy="302" rx="42" ry="14"/>
+      <ellipse cx="475" cy="302" rx="42" ry="14"/>
+      <ellipse cx="325" cy="392" rx="42" ry="14"/>
+      <ellipse cx="475" cy="392" rx="42" ry="14"/>
+    </g>
+    <g fill="none" stroke="#d3b576" stroke-width="3">
+      <path d="M298 302H352M448 302H502M298 392H352M448 392H502"/>
+    </g>
+    <g fill="#dcfff4">
+      <circle cx="325" cy="302" r="4"/>
+      <circle cx="475" cy="302" r="4"/>
+      <circle cx="325" cy="392" r="4"/>
+      <circle cx="475" cy="392" r="4"/>
+    </g>
+    <path d="M380 320H420L434 344L420 372H380L366 344Z" fill="url(#drone)" stroke="#a1edda" stroke-width="1.5"/>
+    <path d="M391 330H409L416 344L409 358H391L384 344Z" fill="#153748"/>
+    <circle cx="400" cy="344" r="5" fill="#c9ac6f"/>
+    <path d="M388 374V385H412V374" fill="none" stroke="#78ccbb" stroke-width="3"/>
+    <path d="M380 421L370 436M400 424V443M420 421L430 436" fill="none" stroke="#4bc7b1" stroke-width="2" opacity="0.65"/>
+  </g>
+  <g fill="#102a38" stroke="#579c93" stroke-width="1.5" stroke-linejoin="round">
+    <path d="M128 574V534H181V491H230V574Z"/>
+    <path d="M232 574V509H294V528H320V574Z"/>
+    <path d="M480 574V528H506V509H568V574Z"/>
+    <path d="M570 574V491H619V534H672V574Z"/>
+    <path d="M310 574V502H490V574Z"/>
+    <path d="M301 502L400 455L499 502Z" fill="#173c48" stroke="#c2a56b"/>
+    <path d="M383 456V436H417V456" fill="#173c48"/>
+  </g>
+  <g fill="#77c7b4" fill-opacity="0.6">
+    <path d="M194 510H201V522H194ZM211 510H218V522H211ZM194 537H201V549H194ZM211 537H218V549H211ZM147 548H155V560H147ZM166 548H174V560H166Z"/>
+    <path d="M582 510H589V522H582ZM599 510H606V522H599ZM582 537H589V549H582ZM599 537H606V549H599ZM626 548H634V560H626ZM645 548H653V560H645Z"/>
+    <path d="M249 526H257V541H249ZM269 526H277V541H269ZM523 526H531V541H523ZM543 526H551V541H543Z"/>
+  </g>
+  <g fill="#c5a669">
+    <path d="M331 514H340V567H331ZM359 514H368V567H359ZM432 514H441V567H432ZM460 514H469V567H460Z"/>
+    <path d="M386 567V536A14 14 0 0 1 414 536V567Z" fill="#081c29" stroke="#c5a669" stroke-width="1.5"/>
+    <path d="M313 568H487V574H313Z"/>
+    <circle cx="400" cy="486" r="6"/>
+  </g>
+  <path d="M106 579H694" stroke="#69b6a7" stroke-width="2"/>
+  <path d="M155 587H645" stroke="#69b6a7" stroke-opacity="0.25"/>
+  <text x="400" y="645" fill="#e8f4ec" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="4">FLIGHT MILESTONE</text>
+  <text x="400" y="677" fill="#84b7ad" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.5">CURIOSITY · PRACTICE · DISCOVERY</text>
+  <rect x="348" y="706" width="104" height="27" rx="13.5" fill="none" stroke="#c5a669" stroke-opacity="0.7"/>
+  <text x="400" y="724" fill="#d0b47b" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="3">MEMO</text>
+</svg>

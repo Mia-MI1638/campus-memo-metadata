@@ -1,0 +1,23 @@
+{
+  "name": "Campus Memo #02",
+  "description": "A commemorative Campus-Memo NFT from a smart-contract lab, featuring campus flight artwork. This artwork does not certify flight time or reward eligibility.",
+  "image": "https://raw.githubusercontent.com/Mia-MI1638/campus-memo-metadata/main/campus-memo.svg",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Campus-Memo"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Campus Flight"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 2
+    },
+    {
+      "trait_type": "Edition Limit",
+      "value": 10
+    }
+  ]
+}
